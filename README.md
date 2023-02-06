@@ -19,3 +19,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ![link to deployed application](file:///C:/Users/reida/bootcamp/PRE/Challenge-2-main/index.html#About-Me)
 
+file:///C:/Users/reida/bootcamp/PRE/Challenge-2-main/index.html

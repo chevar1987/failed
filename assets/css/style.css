@@ -242,7 +242,7 @@ p2 /* font size and color of text at end of page*/
   .pic-tex /* Text settings for skys the limit*/
 
   {
-    font-size: 200%;
+    font-size: 175%;
     color: black;
     position: absolute;
     resize: horizontal;
